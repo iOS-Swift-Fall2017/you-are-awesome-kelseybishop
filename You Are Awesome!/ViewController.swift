@@ -27,7 +27,7 @@ class ViewController: UIViewController {
                         "You Brighten My Day!",
                         "You are Da Bomb!",
                         "I can't wait to use your app!",
-                        "Fabulous? that's you!"]
+                        "Fabulous? That's you!"]
         
         var newIndex = -1
         
